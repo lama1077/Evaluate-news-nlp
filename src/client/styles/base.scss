@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(87, 67, 67);
+}
+
+main {
+    flex: 2;
+}
+
+.center {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border: 3px solid rgb(87, 67, 67);
+ }
+
+ h1{
+     color: white;
+ }
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.f_orm{
+color: bisque;
+}
